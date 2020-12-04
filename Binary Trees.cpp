@@ -4,8 +4,11 @@
 int main()
 {
 	RedBlackTree redBlack;
-	redBlack.Insert(2);
-	redBlack.Insert(1);
-	redBlack.Insert(3);
+	redBlack.Insert(8);
+	redBlack.Insert(18);
+	redBlack.Insert(5);
+	redBlack.Insert(15);
+	redBlack.Insert(17);
+	redBlack.Insert(6);
 	redBlack.PrintTree();
 }

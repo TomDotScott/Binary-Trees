@@ -25,6 +25,9 @@ private:
 	RedBlackNode* m_root;
 	RedBlackNode* TNULL;
 
+	void RotateLeft(RedBlackNode* node);
+	void RotateRight(RedBlackNode* node);
+	void FixInsert(RedBlackNode* child);
 	void RecursivePrint(RedBlackNode* root, std::string& indent, bool leaf) const;
 };
 

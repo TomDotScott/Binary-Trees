@@ -24,12 +24,18 @@
     <ClCompile Include="TwoThreeNode.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="TwoThreeTree.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="RedBlackTree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
     <ClInclude Include="TwoThreeNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="TwoThreeTree.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>

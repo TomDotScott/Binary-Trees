@@ -141,9 +141,11 @@
   <ItemGroup>
     <ClCompile Include="Binary Trees.cpp" />
     <ClCompile Include="RedBlackTree.cpp" />
+    <ClCompile Include="TwoThreeNode.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="RedBlackTree.h" />
+    <ClInclude Include="TwoThreeNode.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
